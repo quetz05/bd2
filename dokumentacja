@@ -1,0 +1,20 @@
+Wymagania funkcjonalne:
+
+•  Możliwość modyfikacji/dodawania/usuwania nowych ciągników i naczep.
+•	Możliwość modyfikacji/dodawania/usuwania danych klientów, lokalizacji oraz osób kontaktowych.
+•	Automatyczne archiwizowanie zakończonych zleceń.
+•	Generowanie możliwych podziałów dużych zleceń na dostawy zgodnie z dostępnymi pojazdami – wybór z ewentualnymi zmianami zatwierdzany przez pracownika.
+•	Automatyczne generowanie listów przewozowych.
+•	Możliwość przeglądania oraz wyszukiwania aktualnych oraz zarchiwizowanych zleceń.
+•	Możliwość przeglądania oraz wyszukiwania klientów oraz osób kontaktowych.
+
+
+Wymagania niefunkcjonalne:
+
+•	maksymalny czas niesprawności po awarii nie może przekraczać 24 godzin
+•	średni czas wykonywania operacji nie powinien przekraczać czasu interaktywnego
+•	system powinien gwarantować ochronę danych osobowych
+•	wydajność
+•	niezawodność
+•	 łatwy w użyciu, przejrzysty i intuicyjny interfejs
+•	system powinien pomieścić przynajmniej milion rekordów 
